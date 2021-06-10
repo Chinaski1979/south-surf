@@ -1,0 +1,3765 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GT3Themes WP\n"
+"POT-Creation-Date: 2018-06-19 14:26+0300\n"
+"PO-Revision-Date: 2016-03-23 22:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: GT3Themes <help@gt3themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: core/tgm\n"
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "Nothing Was Found!"
+msgstr ""
+
+#: 404.php:22
+msgid "Either Something Get Wrong or the Page Doesn't Exist Anymore."
+msgstr ""
+
+#: 404.php:27
+msgid "Take me home"
+msgstr ""
+
+#: attachment.php:24
+msgid "Attachment image"
+msgstr ""
+
+#: bloglisting.php:10 single.php:31 vc_templates/gt3_blog.php:76
+#: vc_templates/gt3_featured_posts.php:307
+msgid "comment"
+msgstr ""
+
+#: bloglisting.php:12 comments.php:14 single.php:33
+#: vc_templates/gt3_blog.php:78 vc_templates/gt3_featured_posts.php:309
+msgid "comments"
+msgstr ""
+
+#: bloglisting.php:32 core/widgets/posts.php:60 search.php:46 single.php:78
+#: vc_templates/gt3_blog.php:102 vc_templates/gt3_featured_posts.php:356
+msgid "by"
+msgstr ""
+
+#: bloglisting.php:98 vc_templates/gt3_blog.php:173
+msgid "Read More"
+msgstr ""
+
+#: bloglisting.php:102 single.php:110 vc_templates/gt3_blog.php:177
+msgid "Share"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:32
+msgid "Name *"
+msgstr ""
+
+#: comments.php:33
+msgid "Email *"
+msgstr ""
+
+#: comments.php:34
+msgid "Website"
+msgstr ""
+
+#: comments.php:36
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:39
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: comments.php:40
+msgid "Leave a Comment!"
+msgstr ""
+
+#: comments.php:41
+msgid "Post comment"
+msgstr ""
+
+#: comments.php:42
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:42
+msgid "Log out?"
+msgstr ""
+
+#: core/metabox_config.php:12
+msgid "Practice Options"
+msgstr ""
+
+#: core/metabox_config.php:17 core/metabox_config.php:130
+msgid "Icons"
+msgstr ""
+
+#: core/metabox_config.php:21 core/metabox_config.php:136
+msgid "Select an icon"
+msgstr ""
+
+#: core/metabox_config.php:33
+msgid "Team Options"
+msgstr ""
+
+#: core/metabox_config.php:38
+msgid "Info Name Position"
+msgstr ""
+
+#: core/metabox_config.php:44
+msgid "Member Positions"
+msgstr ""
+
+#: core/metabox_config.php:52
+msgid "Info Name Location"
+msgstr ""
+
+#: core/metabox_config.php:58
+msgid "Member Location"
+msgstr ""
+
+#: core/metabox_config.php:66
+msgid "Info Experience"
+msgstr ""
+
+#: core/metabox_config.php:72
+msgid "Member Experience"
+msgstr ""
+
+#: core/metabox_config.php:80
+msgid "Info Email"
+msgstr ""
+
+#: core/metabox_config.php:86
+msgid "Member Email"
+msgstr ""
+
+#: core/metabox_config.php:94
+msgid "Link to"
+msgstr ""
+
+#: core/metabox_config.php:99 core/metabox_config.php:110
+#: core/vc/modules/gt3_testimonials/init.php:192
+msgid "Description"
+msgstr ""
+
+#: core/metabox_config.php:102
+msgid "Name"
+msgstr ""
+
+#: core/metabox_config.php:106
+msgid "Url"
+msgstr ""
+
+#: core/metabox_config.php:116
+msgid "Phones Name"
+msgstr ""
+
+#: core/metabox_config.php:122
+msgid "Phone Numbers"
+msgstr ""
+
+#: core/metabox_config.php:148
+msgid "Post Format Layout"
+msgstr ""
+
+#: core/metabox_config.php:154
+msgid "You can use only featured image for this post-format"
+msgstr ""
+
+#: core/metabox_config.php:167
+msgid "Gallery images"
+msgstr ""
+
+#: core/metabox_config.php:181 core/metabox_config.php:198
+msgid "oEmbed"
+msgstr ""
+
+#: core/metabox_config.php:183 core/metabox_config.php:200
+msgid "enter URL"
+msgstr ""
+
+#: core/metabox_config.php:215
+msgid "Quote Author"
+msgstr ""
+
+#: core/metabox_config.php:227
+msgid "Quote Content"
+msgstr ""
+
+#: core/metabox_config.php:240
+msgid "Link URL"
+msgstr ""
+
+#: core/metabox_config.php:252 core/vc/modules/gt3_icon_box/init.php:128
+#: core/vc/modules/gt3_image_box/init.php:59
+msgid "Link Text"
+msgstr ""
+
+#: core/metabox_config.php:274
+msgid "Page Layout"
+msgstr ""
+
+#: core/metabox_config.php:279 core/redux-config.php:1872
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: core/metabox_config.php:283 core/metabox_config.php:321
+#: core/metabox_config.php:427 core/metabox_config.php:440
+#: core/metabox_config.php:545 core/metabox_config.php:654
+#: core/metabox_config.php:775 core/metabox_config.php:840
+#: core/metabox_config.php:904 core/metabox_config.php:1016
+#: core/metabox_config.php:1246 core/metabox_config.php:1764
+msgid "default"
+msgstr ""
+
+#: core/metabox_config.php:284 core/vc/init.php:103
+#: core/vc/modules/gt3_button/init.php:64
+#: core/vc/modules/gt3_button/init.php:89
+#: core/vc/modules/gt3_button/init.php:123
+#: core/vc/modules/gt3_counter/init.php:26
+#: core/vc/modules/gt3_icon_box/init.php:26
+msgid "None"
+msgstr ""
+
+#: core/metabox_config.php:285 core/redux-config.php:542
+#: core/redux-config.php:568 core/redux-config.php:594
+#: core/redux-config.php:620 core/redux-config.php:646
+#: core/redux-config.php:672 core/redux-config.php:699
+#: core/redux-config.php:725 core/redux-config.php:751
+#: core/redux-config.php:1478 core/redux-config.php:1694
+#: core/redux-config.php:1754 core/vc/init.php:114
+#: core/vc/modules/gt3_button/init.php:51
+#: core/vc/modules/gt3_button/init.php:172
+#: core/vc/modules/gt3_counter/init.php:78
+#: core/vc/modules/gt3_featured_posts/init.php:233
+#: core/vc/modules/gt3_icon_box/init.php:103
+#: core/vc/modules/gt3_image_box/init.php:34
+#: core/vc/modules/gt3_services/init.php:69
+msgid "Left"
+msgstr ""
+
+#: core/metabox_config.php:286 core/redux-config.php:544
+#: core/redux-config.php:570 core/redux-config.php:596
+#: core/redux-config.php:622 core/redux-config.php:648
+#: core/redux-config.php:674 core/redux-config.php:701
+#: core/redux-config.php:727 core/redux-config.php:753
+#: core/redux-config.php:1480 core/redux-config.php:1696
+#: core/redux-config.php:1756 core/vc/init.php:115
+#: core/vc/modules/gt3_button/init.php:52
+#: core/vc/modules/gt3_button/init.php:173
+#: core/vc/modules/gt3_counter/init.php:80
+#: core/vc/modules/gt3_featured_posts/init.php:235
+#: core/vc/modules/gt3_icon_box/init.php:104
+#: core/vc/modules/gt3_image_box/init.php:35
+#: core/vc/modules/gt3_services/init.php:70
+msgid "Right"
+msgstr ""
+
+#: core/metabox_config.php:292 core/redux-config.php:1892
+msgid "Page Sidebar"
+msgstr ""
+
+#: core/metabox_config.php:312
+msgid "Logo Options"
+msgstr ""
+
+#: core/metabox_config.php:317
+msgid "Logo"
+msgstr ""
+
+#: core/metabox_config.php:322 core/metabox_config.php:428
+#: core/metabox_config.php:441 core/metabox_config.php:546
+#: core/metabox_config.php:655 core/metabox_config.php:776
+#: core/metabox_config.php:841 core/metabox_config.php:905
+msgid "custom"
+msgstr ""
+
+#: core/metabox_config.php:328 core/redux-config.php:776
+msgid "Header Logo"
+msgstr ""
+
+#: core/metabox_config.php:340 core/redux-config.php:781
+msgid "Enable Logo Height"
+msgstr ""
+
+#: core/metabox_config.php:349 core/redux-config.php:789
+msgid "Set Logo Height"
+msgstr ""
+
+#: core/metabox_config.php:363 core/redux-config.php:800
+msgid "Don't limit maximum height"
+msgstr ""
+
+#: core/metabox_config.php:375 core/redux-config.php:809
+msgid "Set Sticky Logo Height"
+msgstr ""
+
+#: core/metabox_config.php:389 core/redux-config.php:823
+msgid "Sticky Logo"
+msgstr ""
+
+#: core/metabox_config.php:400 core/redux-config.php:828
+msgid "Mobile Logo"
+msgstr ""
+
+#: core/metabox_config.php:418
+msgid "Header Layout and Color"
+msgstr ""
+
+#: core/metabox_config.php:423
+msgid "Header Settings"
+msgstr ""
+
+#: core/metabox_config.php:429 core/vc/modules/gt3_testimonials/init.php:202
+msgid "none"
+msgstr ""
+
+#: core/metabox_config.php:436 core/redux-config.php:917
+msgid "Top Header Settings"
+msgstr ""
+
+#: core/metabox_config.php:452
+msgid "Top Header Background"
+msgstr ""
+
+#: core/metabox_config.php:467
+msgid "Top Header Background Opacity"
+msgstr ""
+
+#: core/metabox_config.php:482 core/redux-config.php:936
+#: core/redux-config.php:1051 core/redux-config.php:1166
+#: core/vc/modules/gt3_button/init.php:269
+#: core/vc/modules/gt3_custom_text/init.php:30
+#: core/vc/modules/gt3_icon_box/init.php:310
+#: core/vc/modules/gt3_image_box/init.php:183
+#: core/vc/modules/gt3_message_box/init.php:55
+#: core/vc/modules/gt3_process_bar/init.php:311
+#: core/vc/modules/gt3_testimonials/init.php:96
+msgid "Text Color"
+msgstr ""
+
+#: core/metabox_config.php:498
+msgid "Set Top Header Bottom Border"
+msgstr ""
+
+#: core/metabox_config.php:509
+msgid "Top Header Border color"
+msgstr ""
+
+#: core/metabox_config.php:525
+msgid "Top Header Border Opacity"
+msgstr ""
+
+#: core/metabox_config.php:541 core/redux-config.php:1032
+msgid "Middle Header Settings"
+msgstr ""
+
+#: core/metabox_config.php:559
+msgid "Middle Header Background"
+msgstr ""
+
+#: core/metabox_config.php:574
+msgid "Middle Header Background Opacity"
+msgstr ""
+
+#: core/metabox_config.php:589
+msgid "Middle Header Text Color"
+msgstr ""
+
+#: core/metabox_config.php:605
+msgid "Set Middle Header Bottom Border"
+msgstr ""
+
+#: core/metabox_config.php:616
+msgid "Middle Header Border color"
+msgstr ""
+
+#: core/metabox_config.php:632
+msgid "Middle Header Border Opacity"
+msgstr ""
+
+#: core/metabox_config.php:650 core/redux-config.php:1147
+msgid "Bottom Header Settings"
+msgstr ""
+
+#: core/metabox_config.php:666
+msgid "Bottom Header Background"
+msgstr ""
+
+#: core/metabox_config.php:681
+msgid "Bottom Header Background Opacity"
+msgstr ""
+
+#: core/metabox_config.php:696
+msgid "Bottom Header Text Color"
+msgstr ""
+
+#: core/metabox_config.php:712
+msgid "Set Bottom Header Bottom Border"
+msgstr ""
+
+#: core/metabox_config.php:723
+msgid "Bottom Header Border color"
+msgstr ""
+
+#: core/metabox_config.php:739
+msgid "Bottom Header Border Opacity"
+msgstr ""
+
+#: core/metabox_config.php:762
+msgid "Header Above Content"
+msgstr ""
+
+#: core/metabox_config.php:771
+msgid "Top Mobile Header Settings"
+msgstr ""
+
+#: core/metabox_config.php:787
+msgid "Top Mobile Header Background"
+msgstr ""
+
+#: core/metabox_config.php:802
+msgid "Top Mobile Header Background Opacity"
+msgstr ""
+
+#: core/metabox_config.php:817
+msgid "Top Mobile Header Text Color"
+msgstr ""
+
+#: core/metabox_config.php:836
+msgid "Middle Mobile Header Settings"
+msgstr ""
+
+#: core/metabox_config.php:852
+msgid "Middle Mobile Header Background"
+msgstr ""
+
+#: core/metabox_config.php:867
+msgid "Middle Mobile Header Background Opacity"
+msgstr ""
+
+#: core/metabox_config.php:882
+msgid "Middle Mobile Header Text Color"
+msgstr ""
+
+#: core/metabox_config.php:900
+msgid "Bottom Mobile Header Settings"
+msgstr ""
+
+#: core/metabox_config.php:916
+msgid "Bottom Mobile Header Background"
+msgstr ""
+
+#: core/metabox_config.php:931
+msgid "Bottom Mobile Header Background Opacity"
+msgstr ""
+
+#: core/metabox_config.php:946
+msgid "Bottom Mobile Header Text Color"
+msgstr ""
+
+#: core/metabox_config.php:986
+msgid "Header Builder"
+msgstr ""
+
+#: core/metabox_config.php:991
+msgid "Choose presets"
+msgstr ""
+
+#: core/metabox_config.php:1007
+msgid "Page Title Options"
+msgstr ""
+
+#: core/metabox_config.php:1012 core/redux-config.php:1446
+msgid "Show Page Title"
+msgstr ""
+
+#: core/metabox_config.php:1017 core/metabox_config.php:1247
+msgid "yes"
+msgstr ""
+
+#: core/metabox_config.php:1018 core/metabox_config.php:1248
+msgid "no"
+msgstr ""
+
+#: core/metabox_config.php:1024
+msgid "Page Sub Title Text"
+msgstr ""
+
+#: core/metabox_config.php:1037 core/redux-config.php:1459
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: core/metabox_config.php:1047
+msgid "Vertical Alignment"
+msgstr ""
+
+#: core/metabox_config.php:1051
+msgid "top"
+msgstr ""
+
+#: core/metabox_config.php:1052
+msgid "middle"
+msgstr ""
+
+#: core/metabox_config.php:1053
+msgid "bottom"
+msgstr ""
+
+#: core/metabox_config.php:1064
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: core/metabox_config.php:1068 core/metabox_config.php:1603
+msgid "left"
+msgstr ""
+
+#: core/metabox_config.php:1069 core/metabox_config.php:1604
+msgid "center"
+msgstr ""
+
+#: core/metabox_config.php:1070 core/metabox_config.php:1605
+msgid "right"
+msgstr ""
+
+#: core/metabox_config.php:1081
+msgid "Font Color"
+msgstr ""
+
+#: core/metabox_config.php:1095 core/metabox_config.php:1444
+#: core/vc/modules/gt3_message_box/init.php:47
+msgid "Background Color"
+msgstr ""
+
+#: core/metabox_config.php:1109 core/redux-config.php:1501
+#: core/redux-config.php:1509
+msgid "Page Title Background Image"
+msgstr ""
+
+#: core/metabox_config.php:1122 core/redux-config.php:1521
+#: core/redux-config.php:1619 core/vc/init.php:180
+msgid "Add Mask?"
+msgstr ""
+
+#: core/metabox_config.php:1127 core/redux-config.php:1527
+#: core/redux-config.php:1625
+msgid "Mask Image"
+msgstr ""
+
+#: core/metabox_config.php:1132 core/vc/init.php:192
+msgid "Need .png image with solid color"
+msgstr ""
+
+#: core/metabox_config.php:1141 core/metabox_config.php:1498
+msgid "Background Repeat"
+msgstr ""
+
+#: core/metabox_config.php:1145 core/metabox_config.php:1502
+msgid "no-repeat"
+msgstr ""
+
+#: core/metabox_config.php:1146 core/metabox_config.php:1503
+msgid "repeat"
+msgstr ""
+
+#: core/metabox_config.php:1147 core/metabox_config.php:1504
+msgid "repeat-x"
+msgstr ""
+
+#: core/metabox_config.php:1148 core/metabox_config.php:1505
+msgid "repeat-y"
+msgstr ""
+
+#: core/metabox_config.php:1149 core/metabox_config.php:1164
+#: core/metabox_config.php:1183 core/metabox_config.php:1506
+#: core/metabox_config.php:1521 core/metabox_config.php:1540
+msgid "inherit"
+msgstr ""
+
+#: core/metabox_config.php:1160 core/metabox_config.php:1517
+msgid "Background Size"
+msgstr ""
+
+#: core/metabox_config.php:1165 core/metabox_config.php:1522
+msgid "cover"
+msgstr ""
+
+#: core/metabox_config.php:1166 core/metabox_config.php:1523
+msgid "contain"
+msgstr ""
+
+#: core/metabox_config.php:1177 core/metabox_config.php:1534
+msgid "Background Attachment"
+msgstr ""
+
+#: core/metabox_config.php:1181 core/metabox_config.php:1538
+msgid "fixed"
+msgstr ""
+
+#: core/metabox_config.php:1182 core/metabox_config.php:1539
+msgid "scroll"
+msgstr ""
+
+#: core/metabox_config.php:1194 core/metabox_config.php:1551
+msgid "Background Position"
+msgstr ""
+
+#: core/metabox_config.php:1198 core/metabox_config.php:1555
+msgid "left top"
+msgstr ""
+
+#: core/metabox_config.php:1199 core/metabox_config.php:1556
+msgid "left center"
+msgstr ""
+
+#: core/metabox_config.php:1200 core/metabox_config.php:1557
+msgid "left bottom"
+msgstr ""
+
+#: core/metabox_config.php:1201 core/metabox_config.php:1558
+msgid "center top"
+msgstr ""
+
+#: core/metabox_config.php:1202 core/metabox_config.php:1559
+msgid "center center"
+msgstr ""
+
+#: core/metabox_config.php:1203 core/metabox_config.php:1560
+msgid "center bottom"
+msgstr ""
+
+#: core/metabox_config.php:1204 core/metabox_config.php:1561
+msgid "right top"
+msgstr ""
+
+#: core/metabox_config.php:1205 core/metabox_config.php:1562
+msgid "right center"
+msgstr ""
+
+#: core/metabox_config.php:1206 core/metabox_config.php:1563
+msgid "right bottom"
+msgstr ""
+
+#: core/metabox_config.php:1217 core/redux-config.php:946
+#: core/redux-config.php:1061 core/redux-config.php:1176
+#: core/vc/modules/gt3_spacing/init.php:20
+msgid "Height"
+msgstr ""
+
+#: core/metabox_config.php:1237
+msgid "Footer Options"
+msgstr ""
+
+#: core/metabox_config.php:1242 core/redux-config.php:1640
+msgid "Show Footer"
+msgstr ""
+
+#: core/metabox_config.php:1254 core/redux-config.php:1653
+msgid "Footer Column"
+msgstr ""
+
+#: core/metabox_config.php:1272
+msgid "Footer Column 1"
+msgstr ""
+
+#: core/metabox_config.php:1284
+msgid "Footer Column 2"
+msgstr ""
+
+#: core/metabox_config.php:1297
+msgid "Footer Column 3"
+msgstr ""
+
+#: core/metabox_config.php:1311
+msgid "Footer Column 4"
+msgstr ""
+
+#: core/metabox_config.php:1326 core/metabox_config.php:1346
+#: core/redux-config.php:1665 core/redux-config.php:1679
+msgid "Footer Column Layout"
+msgstr ""
+
+#: core/metabox_config.php:1365 core/redux-config.php:1692
+msgid "Footer Title Text Align"
+msgstr ""
+
+#: core/metabox_config.php:1382
+msgid "Padding Top (px)"
+msgstr ""
+
+#: core/metabox_config.php:1395
+msgid "Padding Bottom (px)"
+msgstr ""
+
+#: core/metabox_config.php:1408
+msgid "Padding Left (px)"
+msgstr ""
+
+#: core/metabox_config.php:1421
+msgid "Padding Right (px)"
+msgstr ""
+
+#: core/metabox_config.php:1435 core/redux-config.php:1577
+msgid "Full Width Footer"
+msgstr ""
+
+#: core/metabox_config.php:1458
+msgid "Footer Text Color"
+msgstr ""
+
+#: core/metabox_config.php:1472
+msgid "Footer Heading Color"
+msgstr ""
+
+#: core/metabox_config.php:1486 core/redux-config.php:1607
+msgid "Footer Background Image"
+msgstr ""
+
+#: core/metabox_config.php:1576 core/redux-config.php:1732
+msgid "Show Copyright"
+msgstr ""
+
+#: core/metabox_config.php:1586 core/redux-config.php:1738
+msgid "Copyright Editor"
+msgstr ""
+
+#: core/metabox_config.php:1599 core/redux-config.php:1752
+msgid "Copyright Title Text Align"
+msgstr ""
+
+#: core/metabox_config.php:1617
+msgid "Copyright Padding Top (px)"
+msgstr ""
+
+#: core/metabox_config.php:1631
+msgid "Copyright Padding Bottom (px)"
+msgstr ""
+
+#: core/metabox_config.php:1645
+msgid "Copyright Padding Left (px)"
+msgstr ""
+
+#: core/metabox_config.php:1659
+msgid "Copyright Padding Right (px)"
+msgstr ""
+
+#: core/metabox_config.php:1673 core/redux-config.php:1778
+msgid "Copyright Background Color"
+msgstr ""
+
+#: core/metabox_config.php:1688 core/redux-config.php:1786
+msgid "Copyright Text Color"
+msgstr ""
+
+#: core/metabox_config.php:1704
+msgid "Set Copyright Top Border?"
+msgstr ""
+
+#: core/metabox_config.php:1715 core/redux-config.php:1801
+msgid "Copyright Border Color"
+msgstr ""
+
+#: core/metabox_config.php:1731
+msgid "Copyright Border Opacity"
+msgstr ""
+
+#: core/metabox_config.php:1755 core/redux-config.php:2165
+msgid "Contact Widget"
+msgstr ""
+
+#: core/metabox_config.php:1760
+msgid "Display Contact Widget"
+msgstr ""
+
+#: core/metabox_config.php:1765
+msgid "On"
+msgstr ""
+
+#: core/metabox_config.php:1766
+msgid "Off"
+msgstr ""
+
+#: core/metabox_config.php:1779
+msgid "Shortcode Above Content"
+msgstr ""
+
+#: core/metabox_config.php:1784
+msgid "Shortcode"
+msgstr ""
+
+#: core/redux-config.php:16 core/redux-config.php:17
+msgid "Theme Options"
+msgstr ""
+
+#: core/redux-config.php:52
+msgid "General"
+msgstr ""
+
+#: core/redux-config.php:60
+msgid "Responsive"
+msgstr ""
+
+#: core/redux-config.php:66
+msgid "Page Comments"
+msgstr ""
+
+#: core/redux-config.php:72
+msgid "Back to Top"
+msgstr ""
+
+#: core/redux-config.php:78
+msgid "Team Slug"
+msgstr ""
+
+#: core/redux-config.php:83
+msgid "Practice Slug"
+msgstr ""
+
+#: core/redux-config.php:88 core/redux-config.php:97
+msgid "Custom JS"
+msgstr ""
+
+#: core/redux-config.php:89
+msgid "Paste your JS code here."
+msgstr ""
+
+#: core/redux-config.php:98
+msgid "Code to be added inside HEAD tag"
+msgstr ""
+
+#: core/redux-config.php:106
+msgid "404 Page Image"
+msgstr ""
+
+#: core/redux-config.php:422
+msgid "Header Templates"
+msgstr ""
+
+#: core/redux-config.php:432
+msgid "Preset"
+msgstr ""
+
+#: core/redux-config.php:433
+msgid "This allows you to set default header layout."
+msgstr ""
+
+#: core/redux-config.php:461
+msgid "Header Main Settings"
+msgstr ""
+
+#: core/redux-config.php:468
+msgid "Full Width Header"
+msgstr ""
+
+#: core/redux-config.php:469
+msgid "Set header content in full width layout"
+msgstr ""
+
+#: core/redux-config.php:475
+msgid "Sticky Header"
+msgstr ""
+
+#: core/redux-config.php:481
+msgid "Sticky Appearance Style"
+msgstr ""
+
+#: core/redux-config.php:483 core/vc/init.php:73 core/vc/init.php:92
+msgid "Classic"
+msgstr ""
+
+#: core/redux-config.php:484
+msgid "Appearance only on scroll top"
+msgstr ""
+
+#: core/redux-config.php:492
+msgid "Sticky Header Appearance From Top of Page"
+msgstr ""
+
+#: core/redux-config.php:494
+msgid "Auto"
+msgstr ""
+
+#: core/redux-config.php:495 core/vc/modules/gt3_button/init.php:246
+#: core/vc/modules/gt3_button/init.php:262
+#: core/vc/modules/gt3_button/init.php:278
+#: core/vc/modules/gt3_button/init.php:293
+#: core/vc/modules/gt3_button/init.php:309
+#: core/vc/modules/gt3_button/init.php:325
+#: core/vc/modules/gt3_button/init.php:341
+#: core/vc/modules/gt3_button/init.php:358
+#: core/vc/modules/gt3_button/init.php:369
+#: core/vc/modules/gt3_featured_posts/init.php:366
+#: core/vc/modules/gt3_featured_posts/init.php:383
+#: core/vc/modules/gt3_featured_posts/init.php:392
+#: core/vc/modules/gt3_featured_posts/init.php:409
+#: core/vc/modules/gt3_featured_posts/init.php:417
+#: core/vc/modules/gt3_featured_posts/init.php:432
+#: core/vc/modules/gt3_featured_posts/init.php:447
+#: core/vc/modules/gt3_featured_posts/init.php:462
+#: core/vc/modules/gt3_featured_posts/init.php:477
+#: core/vc/modules/gt3_featured_posts/init.php:492
+#: core/vc/modules/gt3_icon_box/init.php:183
+msgid "Custom"
+msgstr ""
+
+#: core/redux-config.php:505
+msgid "Set the distance from the top of the page"
+msgstr ""
+
+#: core/redux-config.php:516
+msgid "Sticky Header Bottom Shadow"
+msgstr ""
+
+#: core/redux-config.php:533
+msgid "Top Left Settings"
+msgstr ""
+
+#: core/redux-config.php:540 core/redux-config.php:566
+#: core/redux-config.php:592 core/redux-config.php:618
+#: core/redux-config.php:644 core/redux-config.php:670
+#: core/redux-config.php:697 core/redux-config.php:723
+#: core/redux-config.php:749
+msgid "Item Align"
+msgstr ""
+
+#: core/redux-config.php:543 core/redux-config.php:569
+#: core/redux-config.php:595 core/redux-config.php:621
+#: core/redux-config.php:647 core/redux-config.php:673
+#: core/redux-config.php:700 core/redux-config.php:726
+#: core/redux-config.php:752 core/redux-config.php:1479
+#: core/redux-config.php:1695 core/redux-config.php:1755
+#: core/vc/modules/gt3_button/init.php:53
+#: core/vc/modules/gt3_featured_posts/init.php:234
+msgid "Center"
+msgstr ""
+
+#: core/redux-config.php:559
+msgid "Top Center Settings"
+msgstr ""
+
+#: core/redux-config.php:585
+msgid "Top Right Settings"
+msgstr ""
+
+#: core/redux-config.php:611
+msgid "Middle Left Settings"
+msgstr ""
+
+#: core/redux-config.php:637
+msgid "Middle Center Settings"
+msgstr ""
+
+#: core/redux-config.php:663
+msgid "Top Middle Settings"
+msgstr ""
+
+#: core/redux-config.php:690
+msgid "Bottom Left Settings"
+msgstr ""
+
+#: core/redux-config.php:716
+msgid "Bottom Center Settings"
+msgstr ""
+
+#: core/redux-config.php:742
+msgid "Bottom Right Settings"
+msgstr ""
+
+#: core/redux-config.php:769
+msgid "Logo Settings"
+msgstr ""
+
+#: core/redux-config.php:833
+msgid "Limit Logo on Mobile"
+msgstr ""
+
+#: core/redux-config.php:847
+msgid "Menu Settings"
+msgstr ""
+
+#: core/redux-config.php:854
+msgid "Select Menu"
+msgstr ""
+
+#: core/redux-config.php:861
+msgid "Enable Active Menu Item Marker"
+msgstr ""
+
+#: core/redux-config.php:867
+msgid "Sub Menu Background"
+msgstr ""
+
+#: core/redux-config.php:868
+msgid "Set sub menu background color"
+msgstr ""
+
+#: core/redux-config.php:879
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: core/redux-config.php:880
+msgid "Set sub menu header text color"
+msgstr ""
+
+#: core/redux-config.php:895
+msgid "Burger Sidebar Settings"
+msgstr ""
+
+#: core/redux-config.php:902
+msgid "Select Sidebar"
+msgstr ""
+
+#: core/redux-config.php:924 core/redux-config.php:1039
+#: core/redux-config.php:1154 core/vc/modules/gt3_button/init.php:253
+msgid "Background"
+msgstr ""
+
+#: core/redux-config.php:925 core/redux-config.php:983
+#: core/redux-config.php:1040 core/redux-config.php:1098
+#: core/redux-config.php:1155 core/redux-config.php:1213
+msgid "Set background color"
+msgstr ""
+
+#: core/redux-config.php:937 core/redux-config.php:996
+#: core/redux-config.php:1052 core/redux-config.php:1111
+#: core/redux-config.php:1167 core/redux-config.php:1226
+msgid "Set text color"
+msgstr ""
+
+#: core/redux-config.php:956 core/redux-config.php:1071
+#: core/redux-config.php:1186
+msgid "Set Bottom Border"
+msgstr ""
+
+#: core/redux-config.php:962 core/redux-config.php:1077
+#: core/redux-config.php:1192
+msgid "Border Color"
+msgstr ""
+
+#: core/redux-config.php:963 core/redux-config.php:1078
+#: core/redux-config.php:1193
+msgid "Set border color"
+msgstr ""
+
+#: core/redux-config.php:975 core/redux-config.php:1090
+#: core/redux-config.php:1205
+msgid "Show Section in Sticky Header?"
+msgstr ""
+
+#: core/redux-config.php:982 core/redux-config.php:1097
+#: core/redux-config.php:1212
+msgid "Sticky Header Background"
+msgstr ""
+
+#: core/redux-config.php:995 core/redux-config.php:1110
+#: core/redux-config.php:1225
+msgid "Sticky Header Text Color"
+msgstr ""
+
+#: core/redux-config.php:1006 core/redux-config.php:1121
+#: core/redux-config.php:1236
+msgid "Sticky Header Height"
+msgstr ""
+
+#: core/redux-config.php:1017 core/redux-config.php:1132
+#: core/redux-config.php:1247
+msgid "Show Section in Mobile Header?"
+msgstr ""
+
+#: core/redux-config.php:1262
+msgid "Text / HTML 1 Settings"
+msgstr ""
+
+#: core/redux-config.php:1269 core/redux-config.php:1297
+#: core/redux-config.php:1325 core/redux-config.php:1353
+#: core/redux-config.php:1381 core/redux-config.php:1409
+msgid "Text Editor"
+msgstr ""
+
+#: core/redux-config.php:1290
+msgid "Text / HTML 2 Settings"
+msgstr ""
+
+#: core/redux-config.php:1318
+msgid "Text / HTML 3 Settings"
+msgstr ""
+
+#: core/redux-config.php:1346
+msgid "Text / HTML 4 Settings"
+msgstr ""
+
+#: core/redux-config.php:1374
+msgid "Text / HTML 5 Settings"
+msgstr ""
+
+#: core/redux-config.php:1402
+msgid "Text / HTML 6 Settings"
+msgstr ""
+
+#: core/redux-config.php:1429
+msgid "GT3 Header Builder"
+msgstr ""
+
+#: core/redux-config.php:1430
+msgid "This is GT3 Header Builder"
+msgstr ""
+
+#: core/redux-config.php:1438
+msgid "Page Title"
+msgstr ""
+
+#: core/redux-config.php:1452
+msgid "Page Title Settings"
+msgstr ""
+
+#: core/redux-config.php:1465
+msgid "Vertical Align"
+msgstr ""
+
+#: core/redux-config.php:1467 core/vc/modules/gt3_counter/init.php:79
+#: core/vc/modules/gt3_icon_box/init.php:86
+#: core/vc/modules/gt3_icon_box/init.php:102
+#: core/vc/modules/gt3_image_box/init.php:33
+#: core/vc/modules/gt3_services/init.php:71
+msgid "Top"
+msgstr ""
+
+#: core/redux-config.php:1468 core/vc/modules/gt3_icon_box/init.php:87
+msgid "Middle"
+msgstr ""
+
+#: core/redux-config.php:1469 core/vc/modules/gt3_counter/init.php:81
+#: core/vc/modules/gt3_icon_box/init.php:88
+#: core/vc/modules/gt3_services/init.php:72
+msgid "Bottom"
+msgstr ""
+
+#: core/redux-config.php:1476
+msgid "Page Title Text Align?"
+msgstr ""
+
+#: core/redux-config.php:1487
+msgid "Page Title Font Color"
+msgstr ""
+
+#: core/redux-config.php:1494
+msgid "Page Title Background Color"
+msgstr ""
+
+#: core/redux-config.php:1535
+msgid "Page Title Height"
+msgstr ""
+
+#: core/redux-config.php:1552
+msgid "Page Title Bottom Margin"
+msgstr ""
+
+#: core/redux-config.php:1569
+msgid "Footer"
+msgstr ""
+
+#: core/redux-config.php:1583
+msgid "Footer Background Color"
+msgstr ""
+
+#: core/redux-config.php:1590
+msgid "Footer Text color"
+msgstr ""
+
+#: core/redux-config.php:1597
+msgid "Footer Heading color"
+msgstr ""
+
+#: core/redux-config.php:1632
+msgid "Footer Content"
+msgstr ""
+
+#: core/redux-config.php:1646
+msgid "Footer Settings"
+msgstr ""
+
+#: core/redux-config.php:1706
+msgid "Footer Padding (px)"
+msgstr ""
+
+#: core/redux-config.php:1724
+msgid "Copyright"
+msgstr ""
+
+#: core/redux-config.php:1766
+msgid "Copyright Padding (px)"
+msgstr ""
+
+#: core/redux-config.php:1794
+msgid "Set Copyright Top Border"
+msgstr ""
+
+#: core/redux-config.php:1818
+msgid "Blog"
+msgstr ""
+
+#: core/redux-config.php:1826 single.php:170
+msgid "Related Posts"
+msgstr ""
+
+#: core/redux-config.php:1832
+msgid "Post Comments"
+msgstr ""
+
+#: core/redux-config.php:1838
+msgid "Trackbacks and Pingbacks"
+msgstr ""
+
+#: core/redux-config.php:1844
+msgid "Likes on Posts"
+msgstr ""
+
+#: core/redux-config.php:1850
+msgid "Share on Posts"
+msgstr ""
+
+#: core/redux-config.php:1856
+msgid "Cut Off Text in Blog Listing"
+msgstr ""
+
+#: core/redux-config.php:1864
+msgid "Sidebars"
+msgstr ""
+
+#: core/redux-config.php:1900 core/redux-config.php:1910
+msgid "Sidebar Generator"
+msgstr ""
+
+#: core/redux-config.php:1909
+msgid "Add Sidebar"
+msgstr ""
+
+#: core/redux-config.php:1919
+msgid "Color Options"
+msgstr ""
+
+#: core/redux-config.php:1926
+msgid "Colors"
+msgstr ""
+
+#: core/redux-config.php:1934
+msgid "Theme Color 1"
+msgstr ""
+
+#: core/redux-config.php:1942
+msgid "Theme Color 2"
+msgstr ""
+
+#: core/redux-config.php:1950
+msgid "Body Background Color"
+msgstr ""
+
+#: core/redux-config.php:1961 core/vc/modules/gt3_button/init.php:197
+#: core/vc/modules/gt3_button/init.php:214
+#: core/vc/modules/gt3_button/init.php:223
+msgid "Typography"
+msgstr ""
+
+#: core/redux-config.php:1969
+msgid "Menu Font"
+msgstr ""
+
+#: core/redux-config.php:1990
+msgid "Main Font"
+msgstr ""
+
+#: core/redux-config.php:2011
+msgid "Headers Font"
+msgstr ""
+
+#: core/redux-config.php:2031
+msgid "H1"
+msgstr ""
+
+#: core/redux-config.php:2053 core/vc/modules/gt3_icon_box/init.php:218
+#: core/vc/modules/gt3_image_box/init.php:92
+#: core/vc/modules/gt3_process_bar/init.php:220
+msgid "H2"
+msgstr ""
+
+#: core/redux-config.php:2075 core/vc/modules/gt3_icon_box/init.php:219
+#: core/vc/modules/gt3_image_box/init.php:93
+#: core/vc/modules/gt3_process_bar/init.php:221
+msgid "H3"
+msgstr ""
+
+#: core/redux-config.php:2097 core/vc/modules/gt3_icon_box/init.php:220
+#: core/vc/modules/gt3_image_box/init.php:94
+#: core/vc/modules/gt3_process_bar/init.php:222
+msgid "H4"
+msgstr ""
+
+#: core/redux-config.php:2119 core/vc/modules/gt3_icon_box/init.php:221
+#: core/vc/modules/gt3_image_box/init.php:95
+#: core/vc/modules/gt3_process_bar/init.php:223
+msgid "H5"
+msgstr ""
+
+#: core/redux-config.php:2141 core/vc/modules/gt3_icon_box/init.php:222
+#: core/vc/modules/gt3_image_box/init.php:96
+#: core/vc/modules/gt3_process_bar/init.php:224
+msgid "H6"
+msgstr ""
+
+#: core/redux-config.php:2171
+msgid "Display on All Pages"
+msgstr ""
+
+#: core/redux-config.php:2179
+msgid "Label Text"
+msgstr ""
+
+#: core/redux-config.php:2184
+msgid "Label's Image"
+msgstr ""
+
+#: core/redux-config.php:2189
+msgid "Label Color"
+msgstr ""
+
+#: core/redux-config.php:2190
+msgid "Set label's color of Contact Widget"
+msgstr ""
+
+#: core/redux-config.php:2201
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:34 functions.php:226
+msgid "Slider image"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:53
+msgid "Video cover image"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:73
+msgid "Video image"
+msgstr ""
+
+#: core/registrator/license_verification.php:62
+#: core/registrator/license_verification.php:98
+msgid "Registration Connection error"
+msgstr ""
+
+#: core/registrator/license_verification.php:66
+#: core/registrator/license_verification.php:102
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: core/registrator/license_verification.php:149
+msgid "Purchase Validation! Please activate your theme."
+msgstr ""
+
+#: core/registrator/license_verification.php:150
+#: core/registrator/license_verification.php:203
+msgid "Register Now"
+msgstr ""
+
+#: core/registrator/license_verification.php:150
+msgid "Buy Theme"
+msgstr ""
+
+#: core/registrator/license_verification.php:150
+#: core/registrator/license_verification.php:175
+#: core/registrator/license_verification.php:203
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/registrator/license_verification.php:170
+msgid "Your support package for this theme expired"
+msgstr ""
+
+#: core/registrator/license_verification.php:172
+msgid "Your support package for this theme is about to expire"
+msgstr ""
+
+#: core/registrator/license_verification.php:175
+msgid "Update Support Package"
+msgstr ""
+
+#: core/registrator/license_verification.php:186
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: core/registrator/license_verification.php:202
+msgid "Create account and manage your theme purchase codes."
+msgstr ""
+
+#: core/registrator/sidebars.php:9
+msgid ""
+"Add the widgets appearance for Custom Sidebar. Drag the widget from the "
+"available list on the left, configure widgets options and click Save button. "
+"Select the sidebar on the posts or pages in just few clicks."
+msgstr ""
+
+#: core/registrator/sidebars.php:25
+msgid "Column Footer 1"
+msgstr ""
+
+#: core/registrator/sidebars.php:27 core/registrator/sidebars.php:39
+#: core/registrator/sidebars.php:51 core/registrator/sidebars.php:63
+msgid ""
+"Display and style the footer area with multiple widgets. Simply drag the "
+"widgets from the left, make the adjustments to the widget according the "
+"needs. Preview the front end."
+msgstr ""
+
+#: core/registrator/sidebars.php:37
+msgid "Column Footer 2"
+msgstr ""
+
+#: core/registrator/sidebars.php:49
+msgid "Column Footer 3"
+msgstr ""
+
+#: core/registrator/sidebars.php:61
+msgid "Column Footer 4"
+msgstr ""
+
+#: core/vc/init.php:74 core/vc/init.php:93
+msgid "Alternative"
+msgstr ""
+
+#: core/vc/init.php:75 core/vc/init.php:94
+#: core/vc/modules/gt3_button/init.php:83
+msgid "Solid"
+msgstr ""
+
+#: core/vc/init.php:76 core/vc/init.php:95
+msgid "In Border"
+msgstr ""
+
+#: core/vc/init.php:104
+msgid "Chevron"
+msgstr ""
+
+#: core/vc/init.php:105
+msgid "Plus"
+msgstr ""
+
+#: core/vc/init.php:106
+msgid "Triangle"
+msgstr ""
+
+#: core/vc/init.php:121
+msgid "Element width"
+msgstr ""
+
+#: core/vc/init.php:136
+msgid "Select separator width (percentage or px)."
+msgstr ""
+
+#: core/vc/init.php:142 core/vc/init.php:162 core/vc/init.php:205
+msgid "Enable column separator?"
+msgstr ""
+
+#: core/vc/init.php:144 core/vc/init.php:165 core/vc/init.php:207
+#: core/vc/init.php:225 core/vc/modules/gt3_blog/init.php:34
+#: core/vc/modules/gt3_blog/init.php:42 core/vc/modules/gt3_blog/init.php:51
+#: core/vc/modules/gt3_blog/init.php:60 core/vc/modules/gt3_blog/init.php:69
+#: core/vc/modules/gt3_button/init.php:195
+#: core/vc/modules/gt3_button/init.php:244
+#: core/vc/modules/gt3_carousel/init.php:34
+#: core/vc/modules/gt3_carousel/init.php:52
+#: core/vc/modules/gt3_carousel/init.php:59
+#: core/vc/modules/gt3_carousel/init.php:66
+#: core/vc/modules/gt3_carousel/init.php:73
+#: core/vc/modules/gt3_carousel/init.php:80
+#: core/vc/modules/gt3_counter/init.php:140
+#: core/vc/modules/gt3_counter/init.php:176
+#: core/vc/modules/gt3_custom_text/init.php:100
+#: core/vc/modules/gt3_featured_posts/init.php:81
+#: core/vc/modules/gt3_featured_posts/init.php:89
+#: core/vc/modules/gt3_featured_posts/init.php:97
+#: core/vc/modules/gt3_featured_posts/init.php:106
+#: core/vc/modules/gt3_featured_posts/init.php:115
+#: core/vc/modules/gt3_featured_posts/init.php:124
+#: core/vc/modules/gt3_featured_posts/init.php:134
+#: core/vc/modules/gt3_featured_posts/init.php:144
+#: core/vc/modules/gt3_featured_posts/init.php:154
+#: core/vc/modules/gt3_featured_posts/init.php:255
+#: core/vc/modules/gt3_featured_posts/init.php:262
+#: core/vc/modules/gt3_featured_posts/init.php:286
+#: core/vc/modules/gt3_featured_posts/init.php:298
+#: core/vc/modules/gt3_featured_posts/init.php:310
+#: core/vc/modules/gt3_featured_posts/init.php:322
+#: core/vc/modules/gt3_featured_posts/init.php:333
+#: core/vc/modules/gt3_featured_posts/init.php:364
+#: core/vc/modules/gt3_featured_posts/init.php:390
+#: core/vc/modules/gt3_featured_posts/init.php:415
+#: core/vc/modules/gt3_icon_box/init.php:242
+#: core/vc/modules/gt3_icon_box/init.php:279
+#: core/vc/modules/gt3_image_box/init.php:116
+#: core/vc/modules/gt3_image_box/init.php:152
+#: core/vc/modules/gt3_price_block/init.php:33
+#: core/vc/modules/gt3_process_bar/init.php:244
+#: core/vc/modules/gt3_process_bar/init.php:280
+#: core/vc/modules/gt3_services/init.php:96
+#: core/vc/modules/gt3_services/init.php:138
+#: core/vc/modules/gt3_services/init.php:200
+#: core/vc/modules/gt3_team/init.php:43 core/vc/modules/gt3_team/init.php:53
+#: core/vc/modules/gt3_team/init.php:61
+#: core/vc/modules/gt3_testimonials/init.php:43
+#: core/vc/modules/gt3_testimonials/init.php:145
+#: core/vc/modules/gt3_video_popup/init.php:55
+msgid "Yes"
+msgstr ""
+
+#: core/vc/init.php:149 core/vc/init.php:170 core/vc/init.php:212
+msgid "Column separator color"
+msgstr ""
+
+#: core/vc/init.php:184 core/vc/init.php:194
+#: core/vc/modules/gt3_team/init.php:116
+msgid "Design Options"
+msgstr ""
+
+#: core/vc/init.php:189
+msgid "Mask"
+msgstr ""
+
+#: core/vc/init.php:223
+msgid "Enable custom text color?"
+msgstr ""
+
+#: core/vc/init.php:230
+msgid "Custom text color"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:8
+msgid "Blog Posts"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:11
+msgid "Display blog posts"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:12 core/vc/modules/gt3_button/init.php:12
+#: core/vc/modules/gt3_carousel/init.php:11
+#: core/vc/modules/gt3_countdown/init.php:15
+#: core/vc/modules/gt3_counter/init.php:12
+#: core/vc/modules/gt3_custom_text/init.php:14
+#: core/vc/modules/gt3_featured_posts/init.php:14
+#: core/vc/modules/gt3_gallery_packery/init.php:7
+#: core/vc/modules/gt3_icon_box/init.php:15
+#: core/vc/modules/gt3_image_box/init.php:15
+#: core/vc/modules/gt3_message_box/init.php:13
+#: core/vc/modules/gt3_price_block/init.php:11
+#: core/vc/modules/gt3_process_bar/init.php:15
+#: core/vc/modules/gt3_services/init.php:11
+#: core/vc/modules/gt3_spacing/init.php:13 core/vc/modules/gt3_team/init.php:11
+#: core/vc/modules/gt3_testimonials/init.php:11
+#: core/vc/modules/gt3_testimonials/init.php:157
+#: core/vc/modules/gt3_video_popup/init.php:11
+msgid "GT3 Modules"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:17
+#: core/vc/modules/gt3_featured_posts/init.php:19
+msgid "Blog Items"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:26
+#: core/vc/modules/gt3_featured_posts/init.php:28
+#: core/vc/modules/gt3_team/init.php:25
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:31
+msgid "Cut off text in blog listing"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:33
+msgid "If checked, cut off text in blog listing."
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:39
+#: core/vc/modules/gt3_featured_posts/init.php:94
+msgid "Show post-meta author?"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:41
+#: core/vc/modules/gt3_featured_posts/init.php:96
+msgid "If checked, post-meta will have author."
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:48
+#: core/vc/modules/gt3_featured_posts/init.php:103
+msgid "Show post-meta comments?"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:50
+#: core/vc/modules/gt3_featured_posts/init.php:105
+msgid "If checked, post-meta will have comments."
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:57
+#: core/vc/modules/gt3_featured_posts/init.php:112
+msgid "Show post-meta categories?"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:59
+#: core/vc/modules/gt3_featured_posts/init.php:114
+msgid "If checked, post-meta will have categories."
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:66
+#: core/vc/modules/gt3_featured_posts/init.php:121
+msgid "Show post-meta date?"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:68
+#: core/vc/modules/gt3_featured_posts/init.php:123
+msgid "If checked, post-meta will have date."
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:76
+#: core/vc/modules/gt3_carousel/init.php:18
+#: core/vc/modules/gt3_featured_posts/init.php:177
+#: core/vc/modules/gt3_featured_posts/init.php:190
+#: core/vc/modules/gt3_team/init.php:74
+#: core/vc/modules/gt3_testimonials/init.php:63
+msgid "Items Per Line"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:79
+#: core/vc/modules/gt3_carousel/init.php:22
+#: core/vc/modules/gt3_featured_posts/init.php:180
+#: core/vc/modules/gt3_featured_posts/init.php:193
+#: core/vc/modules/gt3_featured_posts/init.php:346
+#: core/vc/modules/gt3_team/init.php:79 core/vc/modules/gt3_team/init.php:93
+#: core/vc/modules/gt3_testimonials/init.php:66
+#: core/vc/modules/gt3_testimonials/init.php:203
+msgid "1"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:80
+#: core/vc/modules/gt3_carousel/init.php:23
+#: core/vc/modules/gt3_featured_posts/init.php:181
+#: core/vc/modules/gt3_featured_posts/init.php:194
+#: core/vc/modules/gt3_featured_posts/init.php:347
+#: core/vc/modules/gt3_team/init.php:80 core/vc/modules/gt3_team/init.php:94
+#: core/vc/modules/gt3_testimonials/init.php:67
+#: core/vc/modules/gt3_testimonials/init.php:204
+msgid "2"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:81
+#: core/vc/modules/gt3_carousel/init.php:24
+#: core/vc/modules/gt3_featured_posts/init.php:182
+#: core/vc/modules/gt3_featured_posts/init.php:348
+#: core/vc/modules/gt3_team/init.php:81 core/vc/modules/gt3_team/init.php:95
+#: core/vc/modules/gt3_testimonials/init.php:68
+#: core/vc/modules/gt3_testimonials/init.php:205
+msgid "3"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:82
+#: core/vc/modules/gt3_carousel/init.php:25
+#: core/vc/modules/gt3_featured_posts/init.php:183
+#: core/vc/modules/gt3_featured_posts/init.php:349
+#: core/vc/modules/gt3_team/init.php:82 core/vc/modules/gt3_team/init.php:96
+#: core/vc/modules/gt3_testimonials/init.php:69
+#: core/vc/modules/gt3_testimonials/init.php:206
+msgid "4"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:84
+#: core/vc/modules/gt3_featured_posts/init.php:185
+#: core/vc/modules/gt3_featured_posts/init.php:196
+msgid "Select post items per line."
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:89
+#: core/vc/modules/gt3_featured_posts/init.php:202
+msgid "Spacing beetween items"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:92 core/vc/modules/gt3_button/init.php:69
+#: core/vc/modules/gt3_button/init.php:104
+#: core/vc/modules/gt3_featured_posts/init.php:210
+msgid "5px"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:93 core/vc/modules/gt3_button/init.php:70
+#: core/vc/modules/gt3_button/init.php:109
+#: core/vc/modules/gt3_featured_posts/init.php:209
+msgid "10px"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:94 core/vc/modules/gt3_button/init.php:71
+#: core/vc/modules/gt3_featured_posts/init.php:208
+msgid "15px"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:95 core/vc/modules/gt3_button/init.php:72
+#: core/vc/modules/gt3_featured_posts/init.php:207
+msgid "20px"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:96 core/vc/modules/gt3_button/init.php:73
+#: core/vc/modules/gt3_featured_posts/init.php:206
+msgid "25px"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:97 core/vc/modules/gt3_button/init.php:74
+#: core/vc/modules/gt3_featured_posts/init.php:205
+msgid "30px"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:99
+#: core/vc/modules/gt3_featured_posts/init.php:212
+msgid "Select spacing beetween items."
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:105
+#: core/vc/modules/gt3_button/init.php:235
+#: core/vc/modules/gt3_carousel/init.php:89
+#: core/vc/modules/gt3_counter/init.php:121
+#: core/vc/modules/gt3_featured_posts/init.php:499
+#: core/vc/modules/gt3_price_block/init.php:73
+#: core/vc/modules/gt3_services/init.php:78
+#: core/vc/modules/gt3_team/init.php:108
+#: core/vc/modules/gt3_testimonials/init.php:78
+#: core/vc/modules/gt3_testimonials/init.php:212
+msgid "Extra Class"
+msgstr ""
+
+#: core/vc/modules/gt3_blog/init.php:107
+#: core/vc/modules/gt3_button/init.php:237
+#: core/vc/modules/gt3_carousel/init.php:91
+#: core/vc/modules/gt3_counter/init.php:123
+#: core/vc/modules/gt3_featured_posts/init.php:501
+#: core/vc/modules/gt3_price_block/init.php:75
+#: core/vc/modules/gt3_services/init.php:80
+#: core/vc/modules/gt3_team/init.php:110
+#: core/vc/modules/gt3_testimonials/init.php:80
+#: core/vc/modules/gt3_testimonials/init.php:214
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:9
+msgid "Button"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:15
+msgid "Add custom button"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:20
+#: core/vc/modules/gt3_icon_box/init.php:117
+#: core/vc/modules/gt3_image_box/init.php:48
+#: core/vc/modules/gt3_message_box/init.php:33
+msgid "Text"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:22
+msgid "Text on the button"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:27
+#: core/vc/modules/gt3_icon_box/init.php:123
+#: core/vc/modules/gt3_image_box/init.php:54
+#: core/vc/modules/gt3_price_block/init.php:62
+#: core/vc/modules/gt3_services/init.php:52
+#: core/vc/modules/gt3_team/init.php:66
+msgid "Link"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:29
+msgid "Add link to button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:34
+msgid "Size"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:37
+#: core/vc/modules/gt3_counter/init.php:215
+msgid "Normal"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:38
+#: core/vc/modules/gt3_counter/init.php:213
+#: core/vc/modules/gt3_icon_box/init.php:179
+#: core/vc/modules/gt3_process_bar/init.php:191
+msgid "Mini"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:39
+#: core/vc/modules/gt3_counter/init.php:214
+#: core/vc/modules/gt3_icon_box/init.php:180
+#: core/vc/modules/gt3_process_bar/init.php:192
+msgid "Small"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:40
+#: core/vc/modules/gt3_counter/init.php:216
+#: core/vc/modules/gt3_icon_box/init.php:181
+#: core/vc/modules/gt3_process_bar/init.php:193
+msgid "Large"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:42
+msgid "Select button display size."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:47
+msgid "Alignment"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:50
+msgid "Inline"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:54
+msgid "Block"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:56
+msgid "Select button alignment."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:61
+msgid "Button Border Radius"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:65
+#: core/vc/modules/gt3_button/init.php:100
+msgid "1px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:66
+#: core/vc/modules/gt3_button/init.php:101
+msgid "2px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:67
+#: core/vc/modules/gt3_button/init.php:102
+msgid "3px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:68
+#: core/vc/modules/gt3_button/init.php:103
+msgid "4px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:75
+msgid "35px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:80
+msgid "Button Border Style"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:84
+msgid "Dashed"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:85
+msgid "Dotted"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:86
+msgid "Double"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:87
+msgid "Inset"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:88
+msgid "Outset"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:97
+msgid "Button Border Width"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:105
+msgid "6px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:106
+msgid "7px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:107
+msgid "8px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:108
+msgid "9px"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:120
+#: core/vc/modules/gt3_counter/init.php:21
+#: core/vc/modules/gt3_icon_box/init.php:23
+msgid "Icon Type"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:124
+#: core/vc/modules/gt3_counter/init.php:24
+#: core/vc/modules/gt3_icon_box/init.php:27
+msgid "Font"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:125
+#: core/vc/modules/gt3_button/init.php:150
+#: core/vc/modules/gt3_counter/init.php:25
+#: core/vc/modules/gt3_counter/init.php:46
+#: core/vc/modules/gt3_icon_box/init.php:28
+#: core/vc/modules/gt3_icon_box/init.php:61
+#: core/vc/modules/gt3_image_box/init.php:23
+#: core/vc/modules/gt3_testimonials/init.php:183
+msgid "Image"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:127
+#: core/vc/modules/gt3_button/init.php:136
+#: core/vc/modules/gt3_button/init.php:145
+#: core/vc/modules/gt3_button/init.php:155
+#: core/vc/modules/gt3_button/init.php:165
+#: core/vc/modules/gt3_button/init.php:176
+#: core/vc/modules/gt3_button/init.php:186
+#: core/vc/modules/gt3_counter/init.php:33
+#: core/vc/modules/gt3_icon_box/init.php:44
+#: core/vc/modules/gt3_message_box/init.php:20
+msgid "Icon"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:128
+#: core/vc/modules/gt3_counter/init.php:28
+msgid "Use an existing font icon or upload a custom image."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:144
+#: core/vc/modules/gt3_counter/init.php:41
+#: core/vc/modules/gt3_icon_box/init.php:53
+#: core/vc/modules/gt3_message_box/init.php:29
+msgid "Select icon from library."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:153
+#: core/vc/modules/gt3_counter/init.php:49
+#: core/vc/modules/gt3_icon_box/init.php:64
+#: core/vc/modules/gt3_image_box/init.php:26
+#: core/vc/modules/gt3_services/init.php:22
+#: core/vc/modules/gt3_services/init.php:41
+#: core/vc/modules/gt3_testimonials/init.php:186
+msgid "Select image from media library."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:159
+#: core/vc/modules/gt3_counter/init.php:54
+#: core/vc/modules/gt3_testimonials/init.php:125
+msgid "Image Width"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:162
+#: core/vc/modules/gt3_counter/init.php:57
+#: core/vc/modules/gt3_testimonials/init.php:128
+msgid "Enter image width in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:169
+#: core/vc/modules/gt3_counter/init.php:75
+#: core/vc/modules/gt3_icon_box/init.php:99
+msgid "Icon Position"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:181
+msgid "Icon Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:184
+msgid "Enter icon font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:193
+msgid "Use theme default font family for button?"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:196
+#: core/vc/modules/gt3_counter/init.php:141
+#: core/vc/modules/gt3_counter/init.php:177
+#: core/vc/modules/gt3_custom_text/init.php:101
+#: core/vc/modules/gt3_featured_posts/init.php:365
+#: core/vc/modules/gt3_featured_posts/init.php:391
+#: core/vc/modules/gt3_icon_box/init.php:243
+#: core/vc/modules/gt3_icon_box/init.php:280
+#: core/vc/modules/gt3_image_box/init.php:117
+#: core/vc/modules/gt3_image_box/init.php:153
+#: core/vc/modules/gt3_process_bar/init.php:245
+#: core/vc/modules/gt3_process_bar/init.php:281
+#: core/vc/modules/gt3_services/init.php:97
+#: core/vc/modules/gt3_services/init.php:139
+#: core/vc/modules/gt3_services/init.php:201
+#: core/vc/modules/gt3_video_popup/init.php:56
+msgid "Use font family from the theme."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:206
+#: core/vc/modules/gt3_counter/init.php:151
+#: core/vc/modules/gt3_counter/init.php:187
+#: core/vc/modules/gt3_custom_text/init.php:111
+#: core/vc/modules/gt3_featured_posts/init.php:375
+#: core/vc/modules/gt3_featured_posts/init.php:401
+#: core/vc/modules/gt3_icon_box/init.php:253
+#: core/vc/modules/gt3_icon_box/init.php:290
+#: core/vc/modules/gt3_image_box/init.php:127
+#: core/vc/modules/gt3_image_box/init.php:163
+#: core/vc/modules/gt3_process_bar/init.php:255
+#: core/vc/modules/gt3_process_bar/init.php:291
+#: core/vc/modules/gt3_services/init.php:107
+#: core/vc/modules/gt3_services/init.php:149
+#: core/vc/modules/gt3_services/init.php:211
+#: core/vc/modules/gt3_video_popup/init.php:66
+msgid "Select font family."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:207
+#: core/vc/modules/gt3_counter/init.php:152
+#: core/vc/modules/gt3_counter/init.php:188
+#: core/vc/modules/gt3_custom_text/init.php:112
+#: core/vc/modules/gt3_featured_posts/init.php:376
+#: core/vc/modules/gt3_featured_posts/init.php:402
+#: core/vc/modules/gt3_icon_box/init.php:254
+#: core/vc/modules/gt3_icon_box/init.php:291
+#: core/vc/modules/gt3_image_box/init.php:128
+#: core/vc/modules/gt3_image_box/init.php:164
+#: core/vc/modules/gt3_process_bar/init.php:256
+#: core/vc/modules/gt3_process_bar/init.php:292
+#: core/vc/modules/gt3_services/init.php:108
+#: core/vc/modules/gt3_services/init.php:150
+#: core/vc/modules/gt3_services/init.php:212
+#: core/vc/modules/gt3_video_popup/init.php:67
+msgid "Select font styling."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:219
+msgid "Button Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:222
+msgid "Enter button font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:230
+#: core/vc/modules/gt3_spacing/init.php:10
+#: core/vc/modules/gt3_spacing/init.php:16
+msgid "Spacing"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:242
+msgid "Use theme default button?"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:245
+msgid "Use button from the theme."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:256
+msgid "Select custom background for button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:272
+msgid "Select custom text color for button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:285
+msgid "Button Hover Background"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:288
+msgid "Select custom background for hover button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:301
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:304
+msgid "Select custom text color for hover button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:317
+#: core/vc/modules/gt3_counter/init.php:200
+#: core/vc/modules/gt3_icon_box/init.php:203
+#: core/vc/modules/gt3_process_bar/init.php:209
+msgid "Icon Color"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:320
+msgid "Select icon color for button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:333
+msgid "Button Hover Icon Color"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:336
+msgid "Select icon color for hover button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:349
+msgid "Button Border Color"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:352
+msgid "Select custom border color for button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:365
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:368
+msgid "Select custom border color for hover button."
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:6
+msgid "GT3 Carousel"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:8
+msgid "Display carousel"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:26
+#: core/vc/modules/gt3_team/init.php:97
+#: core/vc/modules/gt3_testimonials/init.php:207
+msgid "5"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:27
+msgid "6"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:32
+#: core/vc/modules/gt3_featured_posts/init.php:260
+msgid "Autoplay carousel"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:39
+msgid "Slider speed"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:42
+#: core/vc/modules/gt3_featured_posts/init.php:275
+#: core/vc/modules/gt3_testimonials/init.php:55
+msgid "Enter autoplay time in milliseconds."
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:50
+#: core/vc/modules/gt3_featured_posts/init.php:284
+msgid "Single slide to scroll"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:57
+msgid "Multiple Items"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:64
+#: core/vc/modules/gt3_featured_posts/init.php:308
+msgid "Hide Pagination control"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:71
+#: core/vc/modules/gt3_featured_posts/init.php:320
+msgid "Hide prev/next buttons"
+msgstr ""
+
+#: core/vc/modules/gt3_carousel/init.php:78
+#: core/vc/modules/gt3_featured_posts/init.php:331
+msgid "Adaptive Height"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:12
+#: core/vc/modules/gt3_countdown/init.php:18
+msgid "Countdown"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:22
+msgid "Countdown Date:"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:27 vc_templates/gt3_countdown.php:24
+msgid "Year"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:29
+msgid "Enter year EX.: 2018"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:34 vc_templates/gt3_countdown.php:25
+msgid "Month"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:36
+msgid "Enter month EX.: 08"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:41 vc_templates/gt3_countdown.php:27
+msgid "Day"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:43
+msgid "Enter day EX.: 20"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:48 vc_templates/gt3_countdown.php:20
+msgid "Hours"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:50
+msgid "Enter hours EX.: 13"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:55 vc_templates/gt3_countdown.php:21
+msgid "Minutes"
+msgstr ""
+
+#: core/vc/modules/gt3_countdown/init.php:57
+msgid "Enter min. EX.: 24"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:9
+msgid "Counter"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:15
+msgid "Adds your milestones, achievements, etc."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:63
+#: core/vc/modules/gt3_featured_posts/init.php:162
+msgid "Image Proportions"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:66
+#: core/vc/modules/gt3_featured_posts/init.php:169
+msgid "Original"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:67
+#: core/vc/modules/gt3_featured_posts/init.php:168
+msgid "Square"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:68
+msgid "Circle"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:88
+msgid "Counter Title "
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:92
+msgid "Enter title for stats counter block"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:97
+msgid "Counter Value"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:100
+msgid ""
+"Enter number for counter without any special character. You may enter a "
+"decimal number. Eg 12.76"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:105
+msgid "Counter Value Prefix"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:108
+msgid "Enter prefix for counter value"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:113
+msgid "Counter Value Suffix"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:116
+msgid "Enter suffix for counter value"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:128
+msgid "Counter Title Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:131
+msgid "Enter counter title font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:132
+#: core/vc/modules/gt3_counter/init.php:142
+#: core/vc/modules/gt3_counter/init.php:159
+#: core/vc/modules/gt3_counter/init.php:168
+#: core/vc/modules/gt3_counter/init.php:178
+#: core/vc/modules/gt3_counter/init.php:195
+#: core/vc/modules/gt3_counter/init.php:205
+#: core/vc/modules/gt3_counter/init.php:220
+#: core/vc/modules/gt3_counter/init.php:230
+#: core/vc/modules/gt3_counter/init.php:240
+#: core/vc/modules/gt3_custom_text/init.php:32
+#: core/vc/modules/gt3_custom_text/init.php:42
+#: core/vc/modules/gt3_custom_text/init.php:51
+#: core/vc/modules/gt3_custom_text/init.php:58
+#: core/vc/modules/gt3_custom_text/init.php:65
+#: core/vc/modules/gt3_custom_text/init.php:77
+#: core/vc/modules/gt3_custom_text/init.php:89
+#: core/vc/modules/gt3_custom_text/init.php:102
+#: core/vc/modules/gt3_custom_text/init.php:119
+#: core/vc/modules/gt3_icon_box/init.php:185
+#: core/vc/modules/gt3_icon_box/init.php:195
+#: core/vc/modules/gt3_icon_box/init.php:205
+#: core/vc/modules/gt3_icon_box/init.php:225
+#: core/vc/modules/gt3_icon_box/init.php:234
+#: core/vc/modules/gt3_icon_box/init.php:244
+#: core/vc/modules/gt3_icon_box/init.php:261
+#: core/vc/modules/gt3_icon_box/init.php:270
+#: core/vc/modules/gt3_icon_box/init.php:281
+#: core/vc/modules/gt3_icon_box/init.php:298
+#: core/vc/modules/gt3_icon_box/init.php:304
+#: core/vc/modules/gt3_icon_box/init.php:312
+#: core/vc/modules/gt3_icon_box/init.php:320
+#: core/vc/modules/gt3_icon_box/init.php:328
+#: core/vc/modules/gt3_image_box/init.php:99
+#: core/vc/modules/gt3_image_box/init.php:108
+#: core/vc/modules/gt3_image_box/init.php:118
+#: core/vc/modules/gt3_image_box/init.php:135
+#: core/vc/modules/gt3_image_box/init.php:144
+#: core/vc/modules/gt3_image_box/init.php:154
+#: core/vc/modules/gt3_image_box/init.php:171
+#: core/vc/modules/gt3_image_box/init.php:177
+#: core/vc/modules/gt3_image_box/init.php:185
+#: core/vc/modules/gt3_image_box/init.php:193
+#: core/vc/modules/gt3_image_box/init.php:201
+#: core/vc/modules/gt3_message_box/init.php:49
+#: core/vc/modules/gt3_message_box/init.php:57
+#: core/vc/modules/gt3_process_bar/init.php:196
+#: core/vc/modules/gt3_process_bar/init.php:203
+#: core/vc/modules/gt3_process_bar/init.php:211
+#: core/vc/modules/gt3_process_bar/init.php:227
+#: core/vc/modules/gt3_process_bar/init.php:236
+#: core/vc/modules/gt3_process_bar/init.php:246
+#: core/vc/modules/gt3_process_bar/init.php:263
+#: core/vc/modules/gt3_process_bar/init.php:272
+#: core/vc/modules/gt3_process_bar/init.php:282
+#: core/vc/modules/gt3_process_bar/init.php:299
+#: core/vc/modules/gt3_process_bar/init.php:305
+#: core/vc/modules/gt3_process_bar/init.php:313
+#: core/vc/modules/gt3_services/init.php:90
+#: core/vc/modules/gt3_services/init.php:98
+#: core/vc/modules/gt3_services/init.php:115
+#: core/vc/modules/gt3_services/init.php:121
+#: core/vc/modules/gt3_services/init.php:132
+#: core/vc/modules/gt3_services/init.php:140
+#: core/vc/modules/gt3_services/init.php:157
+#: core/vc/modules/gt3_services/init.php:164
+#: core/vc/modules/gt3_services/init.php:175
+#: core/vc/modules/gt3_services/init.php:181
+#: core/vc/modules/gt3_services/init.php:191
+#: core/vc/modules/gt3_services/init.php:202
+#: core/vc/modules/gt3_services/init.php:219
+#: core/vc/modules/gt3_testimonials/init.php:89
+#: core/vc/modules/gt3_testimonials/init.php:100
+#: core/vc/modules/gt3_testimonials/init.php:109
+#: core/vc/modules/gt3_testimonials/init.php:119
+#: core/vc/modules/gt3_video_popup/init.php:40
+#: core/vc/modules/gt3_video_popup/init.php:48
+#: core/vc/modules/gt3_video_popup/init.php:57
+#: core/vc/modules/gt3_video_popup/init.php:74
+#: core/vc/modules/gt3_video_popup/init.php:83
+msgid "Styling"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:138
+msgid "Use theme default font family for counter title?"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:164
+msgid "Counter Value Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:167
+msgid "Enter counter value font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:174
+msgid "Use theme default font family for counter value?"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:203
+#: core/vc/modules/gt3_counter/init.php:229
+#: core/vc/modules/gt3_counter/init.php:239
+msgid "Select color for this item."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:210
+#: core/vc/modules/gt3_icon_box/init.php:175
+#: core/vc/modules/gt3_process_bar/init.php:187
+msgid "Icon Size"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:217
+msgid "Extra Large"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:226
+msgid "Counter Value Color"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:236
+#: core/vc/modules/gt3_icon_box/init.php:302
+#: core/vc/modules/gt3_image_box/init.php:175
+#: core/vc/modules/gt3_process_bar/init.php:303
+#: core/vc/modules/gt3_services/init.php:119
+msgid "Title Color"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:11
+#: core/vc/modules/gt3_custom_text/init.php:17
+msgid "Custom Text"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:23
+msgid "Content."
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:38
+msgid "Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:41
+#: core/vc/modules/gt3_custom_text/init.php:64
+#: core/vc/modules/gt3_custom_text/init.php:76
+#: core/vc/modules/gt3_custom_text/init.php:88
+msgid "Enter font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:47
+msgid "Line Height"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:50
+msgid "Enter line height in %."
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:56
+msgid "Set Resonsive Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:62
+msgid "Font Size for small Desktops"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:74
+msgid "Font Size for Tablets"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:86
+msgid "Font Size for Mobile"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_text/init.php:98
+msgid "Use theme default font family?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:12
+msgid "Featured Blog Posts"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:13
+msgid "Display the featured blog posts"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:33
+#: core/vc/modules/gt3_team/init.php:29
+msgid "Module title"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:36
+msgid "Enter text used as module title (Note: located above content element)."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:41
+msgid "Module Link Text"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:44
+msgid "Text on the module link."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:49
+msgid "Module Link"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:57
+#: core/vc/modules/gt3_testimonials/init.php:21
+msgid "Style select"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:62
+#: core/vc/modules/gt3_testimonials/init.php:26
+msgid "Type 1"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:65
+#: core/vc/modules/gt3_testimonials/init.php:29
+msgid "Type 2"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:68
+#: core/vc/modules/gt3_testimonials/init.php:32
+msgid "Type 3"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:71
+#: core/vc/modules/gt3_testimonials/init.php:35
+msgid "Type 4"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:78
+msgid "Allow uppercase post-meta text?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:80
+msgid "If checked, allow uppercase post-meta text."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:86
+#: core/vc/modules/gt3_team/init.php:58
+msgid "Module on dark background?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:88
+msgid "If checked, change title and Module Link color."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:131
+msgid "Show post-format label?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:133
+msgid "If checked, post-format label is visible."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:141
+msgid "Show post read more link?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:143
+msgid "If checked, post read more link is visible."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:151
+msgid "Allow boxed text content?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:153
+msgid "If checked, allow boxed text content."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:165
+msgid "4/3"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:166
+msgid "Horizontal"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:167
+msgid "Vertical"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:171
+msgid "Select image proportions."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:218
+msgid "Post meta position"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:221
+msgid "Before Title"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:222
+msgid "After Title"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:224
+msgid "Select post-meta position."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:230
+msgid "Content alignment"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:236
+msgid "Justify"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:238
+msgid "Select content alignment."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:244
+msgid "Content Letter Count"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:247
+msgid "Enter content letter count."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:253
+msgid "Use blog-posts carousel?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:256
+#: core/vc/modules/gt3_featured_posts/init.php:268
+#: core/vc/modules/gt3_featured_posts/init.php:280
+#: core/vc/modules/gt3_featured_posts/init.php:287
+#: core/vc/modules/gt3_featured_posts/init.php:304
+#: core/vc/modules/gt3_featured_posts/init.php:315
+#: core/vc/modules/gt3_featured_posts/init.php:327
+#: core/vc/modules/gt3_featured_posts/init.php:339
+#: core/vc/modules/gt3_featured_posts/init.php:356
+msgid "Carousel"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:272
+#: core/vc/modules/gt3_testimonials/init.php:52
+msgid "Autoplay time."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:296
+msgid "Infinite Scroll"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:343
+msgid "Items Per Column"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:351
+msgid "Select post items per column."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:362
+msgid "Use theme default font family for blog?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:388
+msgid "Use theme default font family for blog headings?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:413
+msgid "Use theme default blog style?"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:416
+msgid "Use default blog style from the theme."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:424
+msgid "Custom Theme Color"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:427
+msgid "Select custom theme color."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:439
+msgid "Custom Headings Color"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:442
+msgid "Select custom headings color."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:454
+msgid "Custom Content Color"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:457
+msgid "Select custom content color."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:469
+msgid "Heading Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:472
+msgid "Enter heading font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:484
+#: core/vc/modules/gt3_process_bar/init.php:268
+#: core/vc/modules/gt3_services/init.php:171
+msgid "Content Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_featured_posts/init.php:487
+#: core/vc/modules/gt3_process_bar/init.php:271
+msgid "Enter content font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:5
+#: core/vc/modules/gt3_gallery_packery/init.php:6
+msgid "Gallery Packery"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:12
+msgid "Add Images"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:15
+msgid "Select images from media library."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:20
+msgid "Select Layout"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:27
+msgid "Layouts on First Load"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:34
+msgid "Layouts on Load More"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:41
+msgid "Button Title"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:44
+#: vc_templates/gt3_gallery_packery.php:12
+msgid "Load More"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:48
+msgid "Paddings around the images"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:51
+msgid ""
+"Please use this option to add paddings around the images. Recommended size "
+"in pixels 0-50. (Ex.: 15px):"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:56
+msgid "Custom Class"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:65
+msgid "CSS"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:67
+msgid "Design options"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:12
+#: core/vc/modules/gt3_icon_box/init.php:18
+msgid "Icon Box"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:29
+#: core/vc/modules/gt3_icon_box/init.php:35
+msgid "Number"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:72
+msgid "Set Icon below the Title"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:82
+msgid "Icon Vertical Position"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:85 functions.php:1634
+msgid "Default"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:105
+msgid "Inline with Title"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:111
+#: core/vc/modules/gt3_image_box/init.php:41
+msgid "Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:113
+#: core/vc/modules/gt3_image_box/init.php:43
+#: core/vc/modules/gt3_process_bar/init.php:43
+#: core/vc/modules/gt3_process_bar/init.php:73
+#: core/vc/modules/gt3_process_bar/init.php:103
+#: core/vc/modules/gt3_process_bar/init.php:133
+#: core/vc/modules/gt3_process_bar/init.php:164
+msgid "Enter text for heading line."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:119
+#: core/vc/modules/gt3_image_box/init.php:50
+#: core/vc/modules/gt3_message_box/init.php:35
+#: core/vc/modules/gt3_process_bar/init.php:49
+#: core/vc/modules/gt3_process_bar/init.php:79
+#: core/vc/modules/gt3_process_bar/init.php:109
+#: core/vc/modules/gt3_process_bar/init.php:139
+#: core/vc/modules/gt3_process_bar/init.php:170
+#: core/vc/modules/gt3_services/init.php:34
+msgid "Enter text."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:133
+#: core/vc/modules/gt3_image_box/init.php:64
+msgid "Open in New Tab"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:139
+msgid "Icon in circle"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:145
+msgid "Circle Color"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:156
+#: core/vc/modules/gt3_image_box/init.php:70
+msgid "Add divider after Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:162
+#: core/vc/modules/gt3_image_box/init.php:76
+msgid "Divider Color"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:178
+#: core/vc/modules/gt3_process_bar/init.php:190
+msgid "Regular"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:182
+#: core/vc/modules/gt3_process_bar/init.php:194
+msgid "Huge"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:191
+msgid "Custom Icon Size"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:194
+msgid "Enter Icon size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:215
+#: core/vc/modules/gt3_image_box/init.php:89
+#: core/vc/modules/gt3_process_bar/init.php:217
+msgid "Title Tag"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:230
+msgid "Icon Box Title Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:233
+msgid "Enter Icon Box title font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:240
+msgid "Use theme default font family for iconbox title?"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:266
+msgid "Icon Box Content Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:269
+msgid "Enter Icon Box content font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:277
+msgid "Use theme default font family for iconbox content?"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:318
+#: core/vc/modules/gt3_image_box/init.php:191
+msgid "Link Color"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:326
+#: core/vc/modules/gt3_image_box/init.php:199
+msgid "Link Hover Color"
+msgstr ""
+
+#: core/vc/modules/gt3_image_box/init.php:12
+#: core/vc/modules/gt3_image_box/init.php:18
+msgid "Image Box"
+msgstr ""
+
+#: core/vc/modules/gt3_image_box/init.php:30
+msgid "Image Position"
+msgstr ""
+
+#: core/vc/modules/gt3_image_box/init.php:104
+msgid "Image Box Title Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_image_box/init.php:107
+msgid "Enter Image Box title font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_image_box/init.php:114
+msgid "Use theme default font family for iamgebox title?"
+msgstr ""
+
+#: core/vc/modules/gt3_image_box/init.php:140
+msgid "Image Box Content Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_image_box/init.php:143
+msgid "Enter Image Box content font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_image_box/init.php:150
+msgid "Use theme default font family for imagebox content?"
+msgstr ""
+
+#: core/vc/modules/gt3_message_box/init.php:10
+#: core/vc/modules/gt3_message_box/init.php:16
+msgid "Message Box"
+msgstr ""
+
+#: core/vc/modules/gt3_message_box/init.php:39
+msgid "Closable?"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:9
+msgid "Price Block"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:10
+msgid "Create price table"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:16
+msgid "Package Name"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:18
+msgid "Enter title of price block."
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:22
+msgid "Header Background Image"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:24
+msgid "Select header background image."
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:28
+msgid "Active package"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:32
+#: core/vc/modules/gt3_team/init.php:52
+msgid "No"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:38
+msgid "Package Price"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:40
+msgid "Enter the price for this package. e.g. '157'"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:44
+msgid "Price Prefix"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:46
+msgid "Enter the price prefix for this package. e.g. '$'"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:50
+msgid "Price Suffix"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:52
+msgid "Enter the price suffix for this package. e.g. '$'"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:56
+msgid "Package description"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:58
+msgid "Enter the package short description"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:67
+msgid "Price field"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:12
+#: core/vc/modules/gt3_process_bar/init.php:18
+msgid "Process Bar"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:23
+msgid "Steps Count"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:35
+msgid "Step 1:"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:41
+msgid "Step 1 Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:47
+msgid "Step 1 Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:53
+msgid "Step 1 Link"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:59
+msgid "Step 1 Link Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:66
+msgid "Step 2:"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:71
+msgid "Step 2 Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:77
+msgid "Step 2 Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:83
+msgid "Step 2 Link"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:89
+msgid "Step 2 Link Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:96
+msgid "Step 3:"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:101
+msgid "Step 3 Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:107
+msgid "Step 3 Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:113
+msgid "Step 3 Link"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:119
+msgid "Step 3 Link Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:126
+msgid "Step 4:"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:131
+msgid "Step 4 Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:137
+msgid "Step 4 Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:143
+msgid "Step 4 Link"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:149
+msgid "Step 4 Link Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:157
+msgid "Step 5:"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:162
+msgid "Step 5 Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:168
+msgid "Step 5 Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:174
+msgid "Step 5 Link"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:180
+msgid "Step 5 Link Text"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:201
+msgid "Icon Background"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:232
+msgid "Title Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:235
+msgid "Enter title font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:242
+msgid "Use theme default font family for title?"
+msgstr ""
+
+#: core/vc/modules/gt3_process_bar/init.php:278
+msgid "Use theme default font family for content?"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:8
+#: core/vc/modules/gt3_services/init.php:14
+msgid "Services box"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:19
+msgid "Select Background Image"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:26
+#: core/vc/modules/gt3_video_popup/init.php:16
+msgid "Title"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:28
+msgid "Enter text for title line."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:32
+msgid "Content Text"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:38
+msgid "Select Icon"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:45
+msgid "Index number"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:47
+msgid "Enter text for index number line."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:54
+msgid "Add link to box."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:59
+msgid "Module Height"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:62
+msgid "Enter module height in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:66
+msgid "Rotate Direction"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:86
+msgid "Custom Title Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:89
+msgid "Enter Title font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:94
+msgid "Use theme default font family for box title?"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:128
+msgid "Index Number Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:131
+msgid "Enter Index Number font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:136
+msgid "Use theme default font family for box index number?"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:162
+msgid "Index Number Color"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:174
+msgid "Enter Content font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:179
+msgid "Content Text Color"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:189
+msgid "Box Background (Hover State)"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:198
+msgid "Use theme default font family for box content?"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:22
+msgid "Enter empty space height"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:29
+msgid "Set Resonsive Empty Space Height"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:34
+msgid "Height for small Desktops"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:36
+#: core/vc/modules/gt3_spacing/init.php:47
+#: core/vc/modules/gt3_spacing/init.php:58
+msgid "Enter height in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:45
+msgid "Height for Tablets"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:56
+msgid "Height for Mobile"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:9
+msgid "Team"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:10
+msgid "Display team members"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:16
+msgid "Team Items"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:31
+msgid "Module title."
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:35
+msgid "Subtitle"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:37
+msgid "Module subtitle."
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:41
+msgid "Use Filter?"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:48
+msgid "Show View All Link"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:60
+msgid "If checked, change title and View All Link color."
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:87
+msgid "Grid Gap"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:92
+msgid "0"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:98
+msgid "10"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:99
+msgid "15"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:100
+msgid "20"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:101
+msgid "25"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:102
+msgid "30"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:103
+msgid "35"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:114
+msgid "CSS box"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:9
+msgid "Testimonials"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:10
+msgid "Display testimonials"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:41
+msgid "Use testimonials carousel?"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:85
+msgid "Testimonials Text Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:88
+msgid "Enter testimonials text font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:99
+msgid "Select text color for this item."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:105
+msgid "Testimonials Author Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:108
+msgid "Enter testimonials author font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:115
+msgid "Sign Color"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:118
+msgid "Select sign color for this item."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:134
+msgid "Image Height"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:137
+msgid "Enter image height in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:143
+msgid "Circular Images?"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:154
+msgid "Testimonial item"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:165
+msgid "Author name"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:168
+msgid "Provide a title for this list item."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:174
+msgid "Author position"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:177
+msgid "Provide a position for this list item."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:195
+msgid "Description about this list item"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:199
+msgid "Select Rate"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:9
+msgid "Video Popup"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:10
+msgid "Video Popup Widget"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:18
+msgid "Enter title."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:22
+msgid "Background Image Video"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:24
+msgid "Select video background image."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:28
+msgid "Video Link"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:30
+msgid "Enter video link from youtube or vimeo."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:36
+msgid "Title color"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:39
+msgid "Select custom color for title."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:44
+msgid "Button color"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:47
+msgid "Select custom color for button."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:53
+msgid "Use theme default font family for Video Popup title?"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:79
+msgid "Video Popup Content Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:82
+msgid "Enter Video Popup Title font-size in pixels."
+msgstr ""
+
+#: core/widgets/flickr.php:6
+msgid "Flickr (current theme)"
+msgstr ""
+
+#: core/widgets/flickr.php:46
+msgid "Title: "
+msgstr ""
+
+#: core/widgets/flickr.php:50
+msgid "Flickr ID:"
+msgstr ""
+
+#: core/widgets/flickr.php:54 core/widgets/posts.php:109
+msgid "Number:"
+msgstr ""
+
+#: core/widgets/posts.php:7
+msgid "Posts (current theme)"
+msgstr ""
+
+#: core/widgets/posts.php:97
+msgid "Recent Posts"
+msgstr ""
+
+#: core/widgets/posts.php:104
+msgid "Title:"
+msgstr ""
+
+#: full-width.php:36 page.php:31 single-team.php:31
+msgid "Read more!"
+msgstr ""
+
+#: full-width.php:37 page.php:32 single.php:97
+msgid "Pages"
+msgstr ""
+
+#: full-width.php:69 index.php:57 page.php:64 single.php:215
+msgid "Password Protected"
+msgstr ""
+
+#: full-width.php:70 index.php:58 page.php:65 single.php:216
+msgid ""
+"This content is password protected. Please enter your password below to "
+"continue."
+msgstr ""
+
+#: functions.php:59 image.php:85
+msgid "Edit"
+msgstr ""
+
+#: functions.php:64
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:68
+msgid "Reply"
+msgstr ""
+
+#: functions.php:176
+msgid "Featured image"
+msgstr ""
+
+#: functions.php:291
+msgid "Select"
+msgstr ""
+
+#: functions.php:376
+msgid " Tag"
+msgstr ""
+
+#: functions.php:380
+msgid "Author:"
+msgstr ""
+
+#: functions.php:382 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: functions.php:386 functions.php:417
+msgid "Archive"
+msgstr ""
+
+#: functions.php:402
+msgid " / "
+msgstr ""
+
+#: functions.php:403
+msgid "Home"
+msgstr ""
+
+#: functions.php:427
+msgid "Search for"
+msgstr ""
+
+#: functions.php:503
+msgid "Tag"
+msgstr ""
+
+#: functions.php:508
+msgid "Author"
+msgstr ""
+
+#: functions.php:511
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:756 functions.php:763 functions.php:766
+msgid "logo"
+msgstr ""
+
+#: functions.php:970
+msgid "Login with Facebook"
+msgstr ""
+
+#: functions.php:978
+msgid "Login with Google"
+msgstr ""
+
+#: functions.php:984 functions.php:986
+msgid "Login with Twitter"
+msgstr ""
+
+#: functions.php:1099
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:1633
+msgid "Font Weight"
+msgstr ""
+
+#: functions.php:1635
+msgid "Lightest (100)"
+msgstr ""
+
+#: functions.php:1636
+msgid "Lighter (200)"
+msgstr ""
+
+#: functions.php:1637
+msgid "Light (300)"
+msgstr ""
+
+#: functions.php:1638
+msgid "Normal (400)"
+msgstr ""
+
+#: functions.php:1639
+msgid "Medium (500)"
+msgstr ""
+
+#: functions.php:1640
+msgid "Semi-Bold (600)"
+msgstr ""
+
+#: functions.php:1641
+msgid "Bold (700)"
+msgstr ""
+
+#: functions.php:1642
+msgid "Bolder (800)"
+msgstr ""
+
+#: functions.php:1643
+msgid "Extra Bold (900)"
+msgstr ""
+
+#: image.php:62
+msgid "Published on"
+msgstr ""
+
+#: image.php:62
+msgid "in"
+msgstr ""
+
+#: image.php:79
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:80
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:96
+msgid "Pages:"
+msgstr ""
+
+#: image.php:98
+msgid "Back"
+msgstr ""
+
+#: search.php:61
+msgid "Oops!"
+msgstr ""
+
+#: search.php:61
+msgid "Not Found!"
+msgstr ""
+
+#: search.php:62
+msgid "Apologies, but we were unable to find what you were looking for."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: single.php:146
+msgid "Prev"
+msgstr ""
+
+#: single.php:150
+msgid "Next"
+msgstr ""
+
+#: vc_templates/gt3_button.php:165 vc_templates/gt3_button.php:167
+msgid "Button icon"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:16
+msgid "Years"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:17
+msgid "Months"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:18
+msgid "Weeks"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:19
+msgid "Days"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:22
+msgid "Seconds"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:26
+msgid "Week"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:28
+msgid "Hour"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:29
+msgid "Minute"
+msgstr ""
+
+#: vc_templates/gt3_countdown.php:30
+msgid "Second"
+msgstr ""
+
+#: vc_templates/gt3_counter.php:78 vc_templates/gt3_counter.php:80
+msgid "Counter icon"
+msgstr ""
+
+#: vc_templates/gt3_featured_posts.php:424
+msgid "Learn More"
+msgstr ""
+
+#: vc_templates/gt3_services.php:190
+msgid "View More"
+msgstr ""
+
+#: vc_templates/gt3_team.php:41 vc_templates/gt3_team.php:82
+msgid "All"
+msgstr ""
+
+#: vc_templates/gt3_testimonial_item.php:78
+#: vc_templates/gt3_testimonial_item.php:81
+msgid "Testimonial icon"
+msgstr ""
