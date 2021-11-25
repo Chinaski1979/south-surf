@@ -1,0 +1,2 @@
+2021-11-25T14:19:45+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 20480 bytes) in C:\xampp\htdocs\south-surf\wp-admin\includes\ajax-actions.php on line 3194
+
